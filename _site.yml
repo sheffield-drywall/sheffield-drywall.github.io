@@ -17,5 +17,6 @@ output:
     highlight: textmate
     include:
       after_body: footer.html
+      in_header: header.html
     css: style.css
   fig_caption: true
