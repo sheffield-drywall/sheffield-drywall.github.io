@@ -1,0 +1,11 @@
+---
+title: "What do we do?"
+---
+***
+### Wall Rebuild, Sheet Rock/Dry Wall Installation, Paint Finishing and More!  
+
+![Wall Rebuild](images/wall_rebuild.jpg){height=300px width=300px}
+![Sheet Rock Installation](images/drywall.jpg){height=300px width=300px}
+![Paint Finishing](images/paint.jpg){height=300px width=300px}
+
+***

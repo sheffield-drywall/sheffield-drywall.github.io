@@ -1,0 +1,21 @@
+name: "sheffield_website"
+navbar:
+  title: "Sheffield's Sheet Rock & Dry Wall"
+  right:
+    - text: "Home"
+      href: index.html
+      icon: glyphicon-hammer
+    - text: "Services"
+      href: services.html
+      icon: glyphicon-hammer
+    - text: "Contact us"
+      href: contact.html
+      icon: glyphicon-hammer
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    include:
+      after_body: footer.html
+    css: style.css
+  fig_caption: true
