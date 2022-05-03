@@ -2,7 +2,7 @@ name: "sheffield_website"
 navbar:
   title: "Sheffield's Sheet Rock & Dry Wall"
   right:
-    - icon: glyphicon-hammer
+    - text: "Home"
       href: index.html
     - text: "Services"
       href: services.html
