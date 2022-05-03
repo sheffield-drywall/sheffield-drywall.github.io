@@ -1,30 +1,12 @@
----
-title: "home"
-author: "Brandi Patrice Smith"
-date: "5/2/2022"
-output: html_document
----
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
-## R Markdown
+![](images/logo.png){height=500px width=1000px}
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+### **Sheffield's Sheet Rock and Dry Wall Services** is a family-owned business founded on ensuring we provide *incomparable quality* services for residential and commercial property.  
 
-```{r cars}
-summary(cars)
-```
+### We provide complete sheet rock, dry wall, and painting services for a modern, finished look. With over 5 years of experience in the construction services business in the Atlanta metro area, we take great pride in delivering quick but efficient services.  
 
-## Including Plots
+### Feel free to browse our [services](services.html) and [contact](contact.html) us for more information.
 
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+***
